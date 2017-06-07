@@ -1,7 +1,7 @@
 # JAVA-DRH-app
 
-Desktop application in java..../
-It is a human resources management application...../
+####Desktop application using java swing.
+####It is a human resources management application DRH app.
 
 ![dashboard1](https://cloud.githubusercontent.com/assets/24205064/21744378/96a22638-d514-11e6-9353-83bfe19ff430.PNG)
 ![dashboard2](https://cloud.githubusercontent.com/assets/24205064/21744380/96d54c84-d514-11e6-9ccf-fbfc3c7c831b.PNG)
